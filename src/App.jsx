@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import PopX from './components/popx';
+import PopX from './components/PopX';
 import Login from './components/login';
 import SignupPage from './pages/signuppage';
 import AccountSettings from './components/AccountSettings';
